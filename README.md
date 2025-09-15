@@ -256,8 +256,6 @@ Does your system use Porcupine? Send a PR to add it to this list!
 
 ## Citation
 
-If you use Porcupine in any way in academic work, please cite the following:
-
 ```bibtex
 @misc{athalye2017porcupine,
   author = {Anish Athalye},
